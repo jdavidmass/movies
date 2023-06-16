@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './peliculas.css'
+import UncontrolledExample from './carrusel'
 
 function Peliculas() {
 
@@ -22,7 +23,8 @@ function Peliculas() {
     });
 
     return (
-
+        <>
+        < UncontrolledExample />
         <div className='contenedor'>
             <div className='conte'>
                 {listado.map((listados, idx) => (
@@ -51,7 +53,7 @@ function Peliculas() {
                 ))}
             </div>
         </div>
-
+        </>
     )
 }
 
