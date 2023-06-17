@@ -36,6 +36,7 @@ img{
   }
 
 .conte{
+    background-color: #121423;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -50,6 +51,7 @@ img{
 
 
 .flip-card {
+  margin-top: 20px;
     border-radius: 15px;
     width: 300px;
     height: 450px;
@@ -57,6 +59,7 @@ img{
   }
   
   .flip-card-inner {
+    margin-top: 20px;
     border-radius: 15px;
     width: 300px;
     height: 450px;
@@ -70,6 +73,7 @@ img{
   
   .flip-card-front,
   .flip-card-back {
+    margin-top: 20px;
     border-radius: 15px;
     position: absolute;
     width: 300px;
@@ -97,3 +101,5 @@ img{
   
     color: green;
   }
+
+ 
