@@ -18,7 +18,7 @@ function UncontrolledExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Second slide&bg=282c34"
+          src="https://concepto.de/wp-content/uploads/2019/05/leon-sabana-africa-e1559242830526-800x400.jpg"
           alt="Second slide"
         />
 
@@ -30,7 +30,7 @@ function UncontrolledExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Third slide&bg=20232a"
+          src="https://concepto.de/wp-content/uploads/2019/05/leon-sabana-africa-e1559242830526-800x400.jpg"
           alt="Third slide"
         />
 
