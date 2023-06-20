@@ -41,7 +41,7 @@ img{
 
 .conte{
     padding: 20px;
-    background-color: #121423;
+    background-color: red;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
