@@ -85,7 +85,7 @@ img{
   }
   
   .flip-card-front {
-    background-color: #bbb;
+    background-color: transparent;
   }
   
   .flip-card-back {
