@@ -24,7 +24,7 @@ function Peliculas() {
 
     return (
         <>
-        < UncontrolledExample />
+        < UncontrolledExample/>
         <div className='contenedor'>
             <div className='conte'>
                 {listado.map((listados, idx) => (

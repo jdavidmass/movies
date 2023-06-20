@@ -35,15 +35,21 @@ img{
     
   }
 
+.carrusel{
+    background-color: #121423;
+}
+
 .conte{
+    padding: 20px;
     background-color: #121423;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 25px;
+    
 }
 
-img{
+.conte img{
     border-radius: 15px;
     width:300px;
     object-fit: cover;
@@ -51,7 +57,6 @@ img{
 
 
 .flip-card {
-  margin-top: 20px;
     border-radius: 15px;
     width: 300px;
     height: 450px;
@@ -59,7 +64,6 @@ img{
   }
   
   .flip-card-inner {
-    margin-top: 20px;
     border-radius: 15px;
     width: 300px;
     height: 450px;
@@ -73,7 +77,6 @@ img{
   
   .flip-card-front,
   .flip-card-back {
-    margin-top: 20px;
     border-radius: 15px;
     position: absolute;
     width: 300px;
