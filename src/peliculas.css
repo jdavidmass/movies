@@ -57,7 +57,7 @@ img{
 
 
 .flip-card {
-    border-radius: 15px;
+    border-radius: 16px;
     width: 300px;
     height: 450px;
     perspective: 1000px; /* Crea una perspectiva 3D para el efecto */
